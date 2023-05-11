@@ -21,14 +21,18 @@ body {
     margin-top: 15px;
     margin-right: 20px;
     margin-left: 20px;
-    font-size: 20px;
-    float: left;
+    font-size: 20px; 
+}
+
+#menu li :hover {
+    text-decoration: underline;
 }
 
 #menu a {
     color: black;
     text-decoration: none;
 }
+
 h2 {
     font-size: 50px;
 }
@@ -37,11 +41,24 @@ h2 {
     margin-top: 20px;
 }
 
+#game-rules {
+    margin-top: 20px;
+    width: 800px;
+    height: 550px;
+    background: rgb(2, 0, 36);
+    background: linear-gradient(125deg, rgba(2, 0, 36, 1) 0%, rgba(203, 145, 8, 0.9976365546218487) 35%, rgba(1, 18, 22, 1) 100%);
+}
+
+h3 {
+    font-size: 50px;
+    margin-top: 20px;
+}
+
 section {
     display: grid;
     grid-template-columns: repeat(5, 8rem);
-    grid-template-rows: repeat(5, 8rem); 
-    grid-gap: 10px; 
+    grid-template-rows: repeat(5, 8rem);
+    grid-gap: 10px;
     perspective: 800px;
     margin-top: 5px;
     margin-bottom: -120px;
@@ -50,10 +67,11 @@ section {
 .card {
     position: relative;
     transform-style: preserve-3d;
-    transition: all 1s ease; 
+    transition: all 1s ease;
 }
 
-.face, .back {
+.face,
+.back {
     width: 100%;
     height: 100%;
     position: absolute;
@@ -61,8 +79,8 @@ section {
 }
 
 .back {
-    background: rgb(2,0,36);
-    background: linear-gradient(125deg, rgba(2,0,36,1) 0%, rgba(203,145,8,0.9976365546218487) 35%, rgba(1,18,22,1) 100%);
+    background: rgb(2, 0, 36);
+    background: linear-gradient(125deg, rgba(2, 0, 36, 1) 0%, rgba(203, 145, 8, 0.9976365546218487) 35%, rgba(1, 18, 22, 1) 100%);
     backface-visibility: hidden;
 }
 
@@ -73,3 +91,4 @@ section {
 .face {
     transform: rotateY(-180deg);
 }
+
