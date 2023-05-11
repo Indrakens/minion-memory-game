@@ -33,11 +33,19 @@ body {
     text-decoration: none;
 }
 
+a {
+    margin-top: 20px;
+}
+
 h2 {
     font-size: 50px;
 }
 
 #anime {
+    margin-top: 20px;
+}
+
+#scroling-text2 {
     margin-top: 20px;
 }
 
