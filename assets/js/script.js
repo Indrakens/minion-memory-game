@@ -38,8 +38,7 @@ let randomize = () => {
 
 //Card function
 let cardGenerator = () => {
-  let cardData = randomize();
-  let cards = document.querySelectorAll(".card");  
+  let cardData = randomize(); 
  
 cardData.forEach((item) => {
     let card = document.createElement("div");
@@ -50,6 +49,7 @@ cardData.forEach((item) => {
     back.classList = "back";
     //Attach images for cards
     face.src = item.imgSrc;
+    card.setAttribute("name", item.name);
     //Attached cards to section
     section.appendChild(card);
     card.appendChild(face);
