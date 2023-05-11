@@ -107,6 +107,7 @@ let restart = () => {
         cards[index].style.pointerEvents = "all";
     faces[index].src = item.imgSrc;
     cards[index].setAttribute("name", item.name);
+    section.style.pointerEvents = "all";
     }, 1000);
    });
    playerLives = 8;
