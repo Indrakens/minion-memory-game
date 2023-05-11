@@ -68,6 +68,8 @@ let checkCards = (e) => {
     let clickedCard = e.target;
     clickedCard.classList.add("flipped");
     let flippedCards = document.querySelectorAll(".flipped");
+    let toggleCard = document.querySelectorAll(".toggleCard");
+    console.log(flippedCards);
     
     if (flippedCards.length === 2) {
        if (flippedCards[0].getAttribute("name") === 
