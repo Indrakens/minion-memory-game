@@ -66,14 +66,16 @@ cardData.forEach((item) => {
 let checkCards = (e) => {
     console.log(e);
     let clickedCard = e.target;
-    const flippedCards = document.querySelectorAll(".flipped");
     clickedCard.classList.add("flipped");
-
+    let flippedCards = document.querySelectorAll(".flipped");
+    
     if (flippedCards.length === 2) {
        if (flippedCards[0].getAttribute("name") === 
        flippedCards[1].getAttribute("name")
        ) {
         console.log("match");
+       } else {
+        console.log("wrong");
        }
     }
 };
