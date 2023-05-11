@@ -86,10 +86,17 @@ let checkCards = (e) => {
         });
         playerLives--;
         playerLivesCount.textContent = playerLives;
+
+        //Alert window if loose the game
         if (playerLives === 0){
             restart("Oops! Try again!");
         };
        }
+    }
+
+    //Alert window if won the game
+    if (toggleCard.length === 20) {
+        restart("You won!");
     }
 };
 
