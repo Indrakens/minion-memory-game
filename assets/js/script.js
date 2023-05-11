@@ -58,23 +58,26 @@ cardData.forEach((item) => {
     card.addEventListener("click", (e) =>  {
         card.classList.toggle("toggleCard");
         checkCards(e);
-    })
+    });
 });
 };
 
 //Card check
 let checkCards = (e) => {
+    console.log(e);
     let clickedCard = e.target;
-    let flippedCards = document.querySelectorAll(".flipped");
+    const flippedCards = document.querySelectorAll(".flipped");
     clickedCard.classList.add("flipped");
+
+    if (flippedCards.length === 2) {
+       if (flippedCards[0].getAttribute("name") === 
+       flippedCards[1].getAttribute("name")
+       ) {
+        console.log("match");
+       }
+    }
 };
 
-if (flippedCards.lenght === 2) {
-   if (
-    flippedCards[0].get.Attribute("name") === 
-    flippedCards[1].get.Attribute("name")
-   ) {
-    console.log("match");
-   } 
-}
+
+
 cardGenerator();
