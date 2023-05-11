@@ -65,6 +65,7 @@ cardData.forEach((item) => {
 //Card check
 let checkCards = (e) => {
     let clickedCard = e.target;
-    console.log(clickedCard);
+    let flippedCards = document.querySelectorAll(".flipped");
+    clickedCard.classList.add("flipped");
 }
 cardGenerator();
