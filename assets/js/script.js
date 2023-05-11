@@ -67,5 +67,14 @@ let checkCards = (e) => {
     let clickedCard = e.target;
     let flippedCards = document.querySelectorAll(".flipped");
     clickedCard.classList.add("flipped");
+};
+
+if (flippedCards.lenght === 2) {
+   if (
+    flippedCards[0].get.Attribute("name") === 
+    flippedCards[1].get.Attribute("name")
+   ) {
+    console.log("match");
+   } 
 }
 cardGenerator();
