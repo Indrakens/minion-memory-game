@@ -86,6 +86,9 @@ let checkCards = (e) => {
         });
         playerLives--;
         playerLivesCount.textContent = playerLives;
+        if (playerLives === 0){
+            restart();
+        };
        }
     }
 };
@@ -97,8 +100,10 @@ let restart = () => {
    let cards = document.querySelectorAll(".card");
    cardData.forEach((item, index) => {
     cards[index].classList.remove("toggleCard");
-   }) 
-}
+   });
+   playerLives = 8;
+   playerLivesCount.textContent = playerLives;
+};
 
 
 cardGenerator();
