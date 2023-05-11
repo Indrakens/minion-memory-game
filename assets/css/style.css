@@ -13,12 +13,18 @@ body {
     flex-direction: column;
 }
 
+h2 {
+    font-size: 50px;
+}
+
 section {
     display: grid;
     grid-template-columns: repeat(5, 8rem);
     grid-template-rows: repeat(5, 8rem); 
     grid-gap: 10px; 
     perspective: 800px;
+    margin-top: 5px;
+    margin-bottom: -100px;
 }
 
 .card {
@@ -41,4 +47,8 @@ section {
 
 .toggleCard {
     transform: rotateY(180deg);
+}
+
+.face {
+    transform: rotateY(-180deg);
 }
