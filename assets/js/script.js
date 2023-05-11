@@ -46,7 +46,11 @@ cardData.forEach((item) => {
     let back = document.createElement("div");
     card.classList = "card";
     face.classList = "face";
-    back.classList = "back"; 
+    back.classList = "back";
+    //Attached cards to section
+    section.appendChild(card);
+    card.appendChild(face);
+    card.appendChild(back); 
 });
 };
 
