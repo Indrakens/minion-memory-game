@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    height: 100%;
+    background: #fdbe18;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+section {
+    display: grid;
+    grid-template-columns: repeat(5, 8rem);
+    grid-template-rows: repeat(5, 8rem);  
+}
