@@ -100,6 +100,9 @@ let restart = () => {
    let cards = document.querySelectorAll(".card");
    cardData.forEach((item, index) => {
     cards[index].classList.remove("toggleCard");
+  
+    //Randomize cards
+    cards[index].style.pointerEvents = "all";
    });
    playerLives = 8;
    playerLivesCount.textContent = playerLives;
