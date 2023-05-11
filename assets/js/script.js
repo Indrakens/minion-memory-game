@@ -87,14 +87,14 @@ let checkCards = (e) => {
         playerLives--;
         playerLivesCount.textContent = playerLives;
         if (playerLives === 0){
-            restart();
+            restart("Oops! Try again!");
         };
        }
     }
 };
 
 //Restart game
-let restart = () => {
+let restart = (text) => {
    let cardData = randomize();
    let faces = document.querySelectorAll(".face");
    let cards = document.querySelectorAll(".card");
@@ -104,7 +104,7 @@ let restart = () => {
   
     //Randomize cards
     setTimeout(() => {
-        cards[index].style.pointerEvents = "all";
+    cards[index].style.pointerEvents = "all";
     faces[index].src = item.imgSrc;
     cards[index].setAttribute("name", item.name);
     section.style.pointerEvents = "all";
@@ -112,6 +112,7 @@ let restart = () => {
    });
    playerLives = 8;
    playerLivesCount.textContent = playerLives;
+   setTimeout(() => window.alert(text), 120);
 };
 
 
