@@ -18,10 +18,13 @@ section {
     grid-template-columns: repeat(5, 8rem);
     grid-template-rows: repeat(5, 8rem); 
     grid-gap: 10px; 
+    perspective: 800px;
 }
 
 .card {
     position: relative;
+    transform-style: preserve-3d;
+    transition: all 1.5s ease; 
 }
 
 .face, .back {
@@ -33,4 +36,8 @@ section {
 .back {
     background-color: #843d02;
     backface-visibility: hidden;
+}
+
+.toggleCard {
+    transform: rotateY(180deg);
 }
