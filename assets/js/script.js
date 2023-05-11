@@ -103,6 +103,7 @@ let restart = () => {
   
     //Randomize cards
     cards[index].style.pointerEvents = "all";
+    faces[index].src = item.imgSrc;
    });
    playerLives = 8;
    playerLivesCount.textContent = playerLives;
