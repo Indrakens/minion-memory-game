@@ -38,7 +38,8 @@ let randomize = () => {
 
 //Card function
 let cardGenerator = () => {
-  let cardData = randomize();  
+  let cardData = randomize();
+  let cards = document.querySelectorAll(".card");  
  
 cardData.forEach((item) => {
     let card = document.createElement("div");
@@ -56,8 +57,14 @@ cardData.forEach((item) => {
 
     card.addEventListener("click", (e) =>  {
         card.classList.toggle("toggleCard");
+        checkCards(e);
     })
 });
 };
 
+//Card check
+let checkCards = (e) => {
+    let clickedCard = e.target;
+    console.log(clickedCard);
+}
 cardGenerator();
