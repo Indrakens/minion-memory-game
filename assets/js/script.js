@@ -33,7 +33,13 @@ let getData = () => [
 let randomize = () => {
     let cardData = getData();
     cardData.sort( () => Math.random() -0.5);
-    console.log(cardData);
+    return cardData;
 };
 
-randomize();
+//Card function
+let cardGenerator = () => {
+  let cardData = randomize();  
+  console.log(cardData);
+};
+
+cardGenerator();
