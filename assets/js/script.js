@@ -28,3 +28,12 @@ let getData = () => [
     {imgSrc: "./assets/images/minion9.png", name: "minion9"},
     {imgSrc: "./assets/images/minion10.png", name: "minion10"},
 ]
+
+//Randomize function
+let randomize = () => {
+    let cardData = getData();
+    cardData.sort( () => Math.random() -0.5);
+    console.log(cardData);
+};
+
+randomize();
