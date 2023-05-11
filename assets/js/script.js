@@ -76,6 +76,9 @@ let checkCards = (e) => {
         console.log("match");
        } else {
         console.log("wrong");
+        flippedCards.forEach((card) => {
+            card.classList.remove("flipped");
+        })
        }
     }
 };
