@@ -84,10 +84,21 @@ let checkCards = (e) => {
             card.classList.remove("flipped");
             setTimeout(() => card.classList.remove("toggleCard"), 1000);
         });
+        playerLives--;
+        playerLivesCount.textContent = playerLives;
        }
     }
 };
 
+//Restart game
+let restart = () => {
+   let cardData = randomize();
+   let faces = document.querySelectorAll(".face");
+   let cards = document.querySelectorAll(".card");
+   cardData.forEach((item, index) => {
+    cards[index].classList.remove("toggleCard");
+   }) 
+}
 
 
 cardGenerator();
