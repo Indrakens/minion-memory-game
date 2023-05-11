@@ -11,10 +11,15 @@ body {
     justify-content: center;
     align-items: center;
     flex-direction: column;
+    font-family: 'Ubuntu', sans-serif;
 }
 
 h2 {
     font-size: 50px;
+}
+
+#anime {
+    margin-top: 20px;
 }
 
 section {
