@@ -41,15 +41,13 @@ let cardGenerator = () => {
   let cardData = randomize();  
  
 cardData.forEach((item) => {
-  console.log(item);
+    let card = document.createElement("div");
+    let face = document.createElement("img");
+    let back = document.createElement("div");
+    card.classList = "card";
+    face.classList = "face";
+    back.classList = "back"; 
 });
-
- let card = document.createElement("div");
- let face = document.createElement("img");
- let back = document.createElement("div");
- card.classList = "card";
- face.classList = "face";
- back.classList = "back";
 };
 
 cardGenerator();
