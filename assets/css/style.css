@@ -50,7 +50,7 @@ h2 {
 }
 
 #game-rules {
-    margin-top: 20px;
+    margin-top: 30px;
     width: 800px;
     height: 550px;
     background: rgb(2, 0, 36);
@@ -58,12 +58,13 @@ h2 {
 }
 
 h3 {
-    font-size: 50px;
+    font-size: 40px;
+    text-align: center;
     margin-top: 20px;
 }
 
-p {
-    font-size: 30px;
+#scroling-text2 p {
+    font-size: 40px;
     margin-top: 30px;
 }
 
