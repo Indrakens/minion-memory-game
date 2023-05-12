@@ -53,15 +53,30 @@ h2 {
     margin-top: 30px;
     width: 800px;
     height: 550px;
-    background: rgb(2, 0, 36);
-    background: linear-gradient(125deg, rgba(2, 0, 36, 1) 0%, rgba(203, 145, 8, 0.9976365546218487) 35%, rgba(1, 18, 22, 1) 100%);
+    background: rgb(1,0,13);
+    background: linear-gradient(125deg, rgba(1,0,13,0.8743872549019608) 0%, rgba(203,132,8,1) 35%, rgba(0,0,0,0.8183648459383753) 100%);
 }
 
 h3 {
     font-size: 40px;
     text-align: center;
-    margin-top: 20px;
+    margin-top: 30px;
 }
+
+#text {
+    width: 60%;
+    margin-top: 40px;
+    margin-left: 150px;
+    margin-right: 170px;
+}
+
+p {
+    text-align: center;
+    margin-top: 60px;
+    margin-bottom: 40px;
+    font-size: 27px;
+}
+
 
 #scroling-text2 p {
     font-size: 40px;
