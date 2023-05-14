@@ -24,8 +24,8 @@ body {
     font-size: 20px; 
 }
 
-#menu li :hover {
-    text-decoration: underline;
+#menu a :hover{
+    color: #ab6622;
 }
 
 #menu a {
