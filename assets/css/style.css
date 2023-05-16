@@ -6,7 +6,7 @@
 
 body {
     height: 100%;
-    background: #f0a92e;
+    background: #f6c700;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -142,7 +142,7 @@ section {
 .modal-content {
     width: 600px;
     height: 350px;
-    background-color: #f0a92e;
+    background-color: #f6c700;
     border-radius: 5px;
     text-align: center;
     padding: 15px;
