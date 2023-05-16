@@ -185,3 +185,5 @@ let restart = (text) => {
 
 
 cardGenerator();
+
+//Game rules window area

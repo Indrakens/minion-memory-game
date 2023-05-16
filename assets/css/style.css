@@ -87,6 +87,7 @@ p {
     margin-top: 30px;
 }
 
+/* Card area */
 section {
     display: grid;
     grid-template-columns: repeat(5, 8rem);
@@ -124,4 +125,18 @@ section {
 .face {
     transform: rotateY(-180deg);
 }
+
+/* Window section */
+.window {
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.7); /* change to gradiant color */
+    position: absolute;
+    top: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+
 
