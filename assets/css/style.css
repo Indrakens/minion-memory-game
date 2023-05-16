@@ -106,7 +106,8 @@ section {
 .modal-content {
     width: 800px;
     height: 500px;
-    background-color: #f6c700;
+    background: rgb(177,100,5);
+    background: linear-gradient(140deg, rgba(177,100,5,1) 8%, rgba(251,217,43,1) 50%, rgba(177,100,5,1) 90%);
     border-radius: 5px;
     text-align: center;
     padding: 15px;
@@ -137,12 +138,13 @@ p {
 }
 
 #picture A {
-    margin-bottom: 5px;
     float: left;
 }
 
 #text2 p {
     font-size: 30px;
-    margin-top: 80px;
+    margin-top: 70px;
+    margin-right: 20px;
+    float: right;
 }
 
