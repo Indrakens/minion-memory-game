@@ -88,6 +88,7 @@ section {
 
 .face {
     transform: rotateY(-180deg);
+    border: solid 0.1px;
 }
 
 /* Modal section */
