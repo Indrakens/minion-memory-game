@@ -1,4 +1,4 @@
-let section = document.querySelector("section");
+let section = document.querySelector("div #card-section");
 let playerLivesCount = document.querySelector("span");
 let playerLives = 8;
 
