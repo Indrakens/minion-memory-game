@@ -6,7 +6,7 @@
 
 body {
     height: 100%;
-    background: #f6c700;
+    background: #fedc0a;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -41,10 +41,6 @@ h2 {
     margin-top: 20px;
 }
 
-#scroling-text2 {
-    margin-top: 20px;
-}
-
 h3 {
     font-size: 40px;
     text-align: center;
@@ -58,8 +54,7 @@ section {
     grid-template-rows: repeat(5, 8rem);
     grid-gap: 10px;
     perspective: 800px;
-    margin-top: 5px;
-    margin-bottom: -120px;
+     margin-bottom: -120px;
 }
 
 .card {
