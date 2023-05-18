@@ -86,7 +86,7 @@ let getData = () => [{
         imgSrc: "./assets/images/minion10.png",
         name: "minion10"
     },
-]
+];
 
 //Randomize function
 let randomize = () => {
@@ -151,7 +151,7 @@ let checkCards = (e) => {
             //Alert window if loose the game
             if (playerLives === 0) {
                 restart("🥺 Oops! Try again!");
-            };
+            }
         }
     }
 
