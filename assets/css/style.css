@@ -14,6 +14,16 @@ body {
     font-family: 'Ubuntu', sans-serif;
 }
 
+#game-area {
+    width: 40%;
+    margin-top: 5px;
+    border: solid 2px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
 #menu li {
     list-style-type: none;
     text-transform: uppercase;
