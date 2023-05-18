@@ -36,6 +36,9 @@ a {
 #rules {
     padding: 5px;
     border-radius: 5px;
+    font-size: 70%;
+    background: rgb(0,0,0);
+    background: linear-gradient(310deg, rgba(0,0,0,0.6558998599439776) 0%, rgba(250,181,3,1) 54%, rgba(19,20,20,0.6923144257703081) 100%);
 }
 
 #anime {
@@ -70,12 +73,12 @@ section {
     height: 100%;
     position: absolute;
     pointer-events: none;
-    border-radius: 6px;
+    border-radius: 5px;
 }
 
 .back {
-    background: rgb(2, 0, 36);
-    background: linear-gradient(125deg, rgba(2, 0, 36, 1) 0%, rgba(203, 145, 8, 0.9976365546218487) 35%, rgba(1, 18, 22, 1) 100%);
+    background: rgb(0,0,0);
+    background: linear-gradient(310deg, rgba(0,0,0,0.9976365546218487) 0%, rgba(250,181,3,1) 54%, rgba(19,20,20,0.9920343137254902) 100%);
     backface-visibility: hidden;
 }
 
