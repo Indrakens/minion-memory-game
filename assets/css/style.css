@@ -39,15 +39,25 @@ body {
     text-decoration: none;
 }
 
-a {
-    margin-top: 20px;
-}
-
-#rules {
+h1 {
+    width: 120px;
     padding: 5px;
     border-radius: 5px;
     border: solid 2px;
-    font-size: 95%;
+    font-size: 135%;
+    font-weight: bold;
+    background: rgb(0, 0, 0);
+    background: linear-gradient(310deg, rgba(0, 0, 0, 0.6558998599439776) 0%, rgba(250, 181, 3, 1) 54%, rgba(19, 20, 20, 0.6923144257703081) 100%);
+}
+
+
+#rules {
+    height: 40px;
+    margin-left: 220px;
+    padding: 5px;
+    border-radius: 5px;
+    border: solid 2px;
+    font-size: 100%;
     font-weight: bold;
     background: rgb(0, 0, 0);
     background: linear-gradient(310deg, rgba(0, 0, 0, 0.6558998599439776) 0%, rgba(250, 181, 3, 1) 54%, rgba(19, 20, 20, 0.6923144257703081) 100%);
@@ -58,13 +68,7 @@ a {
 }
 
 #anime {
-    margin-top: 20px;
-}
-
-h3 {
-    font-size: 40px;
-    text-align: center;
-    margin-top: 30px;
+    margin-top: 10px;
 }
 
 /* Card area */
