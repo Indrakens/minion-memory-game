@@ -52,12 +52,12 @@ h1 {
 
 
 #rules {
-    height: 40px;
-    margin-left: 350px;
+    height: 33px;
+    margin-left: 375px;
     padding: 5px;
     border-radius: 5px;
     border: solid 2px;
-    font-size: 100%;
+    font-size: 85%;
     font-weight: bold;
     background: rgb(0, 0, 0);
     background: linear-gradient(310deg, rgba(0, 0, 0, 0.6558998599439776) 0%, rgba(250, 181, 3, 1) 54%, rgba(19, 20, 20, 0.6923144257703081) 100%);
