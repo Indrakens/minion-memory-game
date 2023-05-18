@@ -40,11 +40,11 @@ body {
 }
 
 h1 {
-    width: 135px;
+    width: 133px;
     padding: 5px;
     border-radius: 5px;
     border: solid 2px;
-    font-size: 155%;
+    font-size: 158%;
     font-weight: bold;
     background: rgb(0, 0, 0);
     background: linear-gradient(310deg, rgba(0, 0, 0, 0.6558998599439776) 0%, rgba(250, 181, 3, 1) 54%, rgba(19, 20, 20, 0.6923144257703081) 100%);
@@ -68,7 +68,7 @@ h1 {
 }
 
 #anime {
-    margin-top: 10px;
+    margin-top: 5px;
 }
 
 /* Card area */
