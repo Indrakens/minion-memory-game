@@ -8,83 +8,103 @@ playerLivesCount.textContent = playerLives;
 //Image data
 let getData = () => [{
         imgSrc: "./assets/images/minion1.png",
-        name: "minion1", alt: "three minions with phone"
+        name: "minion1",
+        alt: "three minions with phone"
     },
     {
         imgSrc: "./assets/images/minion2.png",
-        name: "minion2", alt: "minion with toy gun"
+        name: "minion2",
+        alt: "minion with toy gun"
     },
     {
         imgSrc: "./assets/images/minion3.png",
-        name: "minion3", alt: "three minions"
+        name: "minion3",
+        alt: "three minions"
     },
     {
         imgSrc: "./assets/images/minion4.png",
-        name: "minion4", alt: "six minions together"
+        name: "minion4",
+        alt: "six minions together"
     },
     {
         imgSrc: "./assets/images/minion5.png",
-        name: "minion5", alt: "Two serious minions"
+        name: "minion5",
+        alt: "Two serious minions"
     },
     {
         imgSrc: "./assets/images/minion6.png",
-        name: "minion6", alt: "minion with tedy bear"
+        name: "minion6",
+        alt: "minion with tedy bear"
     },
     {
         imgSrc: "./assets/images/minion7.png",
-        name: "minion7", alt: "minion with heart"
+        name: "minion7",
+        alt: "minion with heart"
     },
     {
         imgSrc: "./assets/images/minion8.png",
-        name: "minion8", alt: "one happy minion"
+        name: "minion8",
+        alt: "one happy minion"
     },
     {
         imgSrc: "./assets/images/minion9.png",
-        name: "minion9", alt: "one silly minion"
+        name: "minion9",
+        alt: "one silly minion"
     },
     {
         imgSrc: "./assets/images/minion10.png",
-        name: "minion10", alt: "minion with banana"
+        name: "minion10",
+        alt: "minion with banana"
     },
     {
         imgSrc: "./assets/images/minion1.png",
-        name: "minion1", alt: "three minions with phone"
+        name: "minion1",
+        alt: "three minions with phone"
     },
     {
         imgSrc: "./assets/images/minion2.png",
-        name: "minion2", alt: "minion with toy gun"
+        name: "minion2",
+        alt: "minion with toy gun"
     },
     {
         imgSrc: "./assets/images/minion3.png",
-        name: "minion3", alt: "three minions"
+        name: "minion3",
+        alt: "three minions"
     },
     {
         imgSrc: "./assets/images/minion4.png",
-        name: "minion4", alt: "six minions together"
+        name: "minion4",
+        alt: "six minions together"
     },
     {
         imgSrc: "./assets/images/minion5.png",
-        name: "minion5", alt: "Two serious minions"
+        name: "minion5",
+        alt: "Two serious minions"
     },
     {
         imgSrc: "./assets/images/minion6.png",
-        name: "minion6", alt: "minion with tedy bear"
+        name: "minion6",
+        alt: "minion with tedy bear"
     },
     {
         imgSrc: "./assets/images/minion7.png",
-        name: "minion7", alt: "minion with heart"
+        name: "minion7",
+        alt: "minion with heart"
     },
     {
         imgSrc: "./assets/images/minion8.png",
-        name: "minion8", alt: "one happy minion"
+        name: "minion8",
+        alt: "one happy minion"
     },
     {
         imgSrc: "./assets/images/minion9.png",
-        name: "minion9", alt: "one silly minion"
+        name: "minion9",
+        alt: "one silly minion"
     },
     {
         imgSrc: "./assets/images/minion10.png",
-        name: "minion10", alt: "minion with banana"
+        name: "minion10",
+        alt: "minion with banana"
     },
 ];
 
@@ -188,12 +208,12 @@ let restart = (text) => {
 cardGenerator();
 
 //Game rules window area
-document.getElementById("button").addEventListener("click", 
-function() {
-    document.querySelector(".modal").style.display = "flex";
-});
+document.getElementById("button").addEventListener("click",
+    function () {
+        document.querySelector(".modal").style.display = "flex";
+    });
 
-document.querySelector(".close").addEventListener("click", 
-function() {
-    document.querySelector(".modal").style.display = "none";
-});
+document.querySelector(".close").addEventListener("click",
+    function () {
+        document.querySelector(".modal").style.display = "none";
+    });
