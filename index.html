@@ -12,57 +12,46 @@
 </head>
 
 <body>
-    <div id="game-area">
-        <header>
-            <nav>
-                <ul id="menu">
-                    <li>
-                        <h1>Lives: <span class="playerLivesCount"></span></h1>
-                    </li>
-                    <li>
-                        <div id="rules"> <a href="#" id="button">Game Rules</a></div>
-                    </li>
-                </ul>
-            </nav>
-        </header>
+    <header>
+        <ul>
+            <li>
+                <div id="rules"> <a href="#" id="button">Game Rules</a></div>
+            </li>
+            <li>
+                <h1>Lives: <span class="playerLivesCount"></span></h1>
+            </li>
+        </ul>
+    </header>
+    <div id="anime">
+        <img src='https://dpoisn.com/images/faces/minions/minion_cheer.gif' width='675' height='185' alt='minion'
+            class="responsive" style="border-radius: 5px; border: solid 4px">
+    </div> <!-- end of anime div -->
+    <div id="logo">
+        <img src="assets/images/logo.jpeg.jpg" width="675" height="90" alt="logo-minion-memory-game" class="responsive">
+    </div> <!-- end of logo div -->
+    <!-- section -->
+    <div id="card-section"></div>
+    <!-- start of game rules modal section -->
+    <div class="modal">
+        <div class="modal-content">
+            <div class="close">
+                <i class="fa-sharp fa-solid fa-xmark fa-xl" style="color: #ff0707;"></i>
+            </div><!-- end of close div -->
+            <div id="text">
+                <p><i class="fa-regular fa-circle-dot fa-xs"></i> Turne over 2 cards. If the
+                    pictures
+                    match, the player tries again for another match.</p>
+                <p><i class="fa-regular fa-circle-dot fa-xs"></i> If they do not match the cards
+                    are
+                    turned over again and the player loose the live.</p>
+            </div> <!-- end of text div -->
+            <div id="text-image">
+                <img src="assets/images/text.jpg" alt="text-enjoy-the-game" width="530" height="100" class="responsive">
+            </div> <!-- end of text-image div -->
+        </div> <!-- end of modal-content div -->
+    </div> <!-- end of modal div -->
 
-        <div id="anime">
-            <A href='https://dpoisn.com/images/faces/minions.php'><img
-                    src='https://dpoisn.com/images/faces/minions/minion_cheer.gif' width='675' height='185' alt='minion'
-                    class="responsive" style="border-radius: 5px;"></A>
-        </div> <!-- end of anime div -->
-        <div id="scroling-logo">
-            <marquee behavior="scroling" direction="left">
-                <img src="assets/images/logo.jpeg.jpg" alt="logo" width="675" height="90" class="responsive">
-            </marquee>
-        </div> <!-- end of scroling-text div -->
-        <!-- section -->
-        <div id="card-section"></div>
-        <!-- start of game rules modal section -->
-        <div class="modal">
-            <div class="modal-content">
-                <div class="close">
-                    <i class="fa-sharp fa-solid fa-xmark fa-xl" style="color: #050505;"></i>
-                </div><!-- end of close div -->
-                <div id="picture">
-                    <A href='https://dpoisn.com/images/faces/minions.php'><img
-                            src='https://dpoisn.com/images/faces/minions/Shy-Minion-icon.png' width='170%' height='170%'
-                            alt='minion' class="responsive"></A>
-                </div> <!-- end of picture div -->
-                <div id="text">
-                    <p><i class="fa-solid fa-star fa-2xs" style="color: #0a0a0a;"></i> Turne over 2 cards. If the
-                        pictures
-                        match, the player tries again for another match.</p>
-                    <p><i class="fa-solid fa-star fa-2xs" style="color: #0a0a0a;"></i> If they do not match the cards
-                        are
-                        turned over again and the player loose the live.</p>
-                </div> <!-- end of text div -->
-                <div id="text-image">
-                    <img src="assets/images/text.jpg" alt="textimage" width="50%" height="10%" class="responsive">
-                </div> <!-- end of text-image div -->
-            </div> <!-- end of modal-content div -->
-        </div> <!-- end of modal div -->
-    </div> <!-- end of game-area div -->
+
     <script src="assets/js/script.js"></script>
     <script src="https://kit.fontawesome.com/3112f3ead0.js" crossorigin="anonymous"></script>
 </body>
