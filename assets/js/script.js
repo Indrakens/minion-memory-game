@@ -204,7 +204,6 @@ let restart = (text) => {
     setTimeout(() => window.alert(text), 120);
 };
 
-
 cardGenerator();
 
 //Game rules window area
