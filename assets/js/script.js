@@ -1,4 +1,4 @@
-let section = document.querySelector("div #card-section");
+let section = document.querySelector("#card-section");
 let playerLivesCount = document.querySelector("span");
 let playerLives = 8;
 
@@ -8,83 +8,83 @@ playerLivesCount.textContent = playerLives;
 //Image data
 let getData = () => [{
         imgSrc: "./assets/images/minion1.png",
-        name: "minion1"
+        name: "minion1", alt: "three minions with phone"
     },
     {
         imgSrc: "./assets/images/minion2.png",
-        name: "minion2"
+        name: "minion2", alt: "minion with toy gun"
     },
     {
         imgSrc: "./assets/images/minion3.png",
-        name: "minion3"
+        name: "minion3", alt: "three minions"
     },
     {
         imgSrc: "./assets/images/minion4.png",
-        name: "minion4"
+        name: "minion4", alt: "six minions together"
     },
     {
         imgSrc: "./assets/images/minion5.png",
-        name: "minion5"
+        name: "minion5", alt: "Two serious minions"
     },
     {
         imgSrc: "./assets/images/minion6.png",
-        name: "minion6"
+        name: "minion6", alt: "minion with tedy bear"
     },
     {
         imgSrc: "./assets/images/minion7.png",
-        name: "minion7"
+        name: "minion7", alt: "minion with heart"
     },
     {
         imgSrc: "./assets/images/minion8.png",
-        name: "minion8"
+        name: "minion8", alt: "one happy minion"
     },
     {
         imgSrc: "./assets/images/minion9.png",
-        name: "minion9"
+        name: "minion9", alt: "one silly minion"
     },
     {
         imgSrc: "./assets/images/minion10.png",
-        name: "minion10"
+        name: "minion10", alt: "minion with banana"
     },
     {
         imgSrc: "./assets/images/minion1.png",
-        name: "minion1"
+        name: "minion1", alt: "three minions with phone"
     },
     {
         imgSrc: "./assets/images/minion2.png",
-        name: "minion2"
+        name: "minion2", alt: "minion with toy gun"
     },
     {
         imgSrc: "./assets/images/minion3.png",
-        name: "minion3"
+        name: "minion3", alt: "three minions"
     },
     {
         imgSrc: "./assets/images/minion4.png",
-        name: "minion4"
+        name: "minion4", alt: "six minions together"
     },
     {
         imgSrc: "./assets/images/minion5.png",
-        name: "minion5"
+        name: "minion5", alt: "Two serious minions"
     },
     {
         imgSrc: "./assets/images/minion6.png",
-        name: "minion6"
+        name: "minion6", alt: "minion with tedy bear"
     },
     {
         imgSrc: "./assets/images/minion7.png",
-        name: "minion7"
+        name: "minion7", alt: "minion with heart"
     },
     {
         imgSrc: "./assets/images/minion8.png",
-        name: "minion8"
+        name: "minion8", alt: "one happy minion"
     },
     {
         imgSrc: "./assets/images/minion9.png",
-        name: "minion9"
+        name: "minion9", alt: "one silly minion"
     },
     {
         imgSrc: "./assets/images/minion10.png",
-        name: "minion10"
+        name: "minion10", alt: "minion with banana"
     },
 ];
 
@@ -109,6 +109,7 @@ let cardGenerator = () => {
         //Attach images for cards
         face.src = item.imgSrc;
         card.setAttribute("name", item.name);
+        card.setAttribute("alt", item.alt);
         //Attached cards to section
         section.appendChild(card);
         card.appendChild(face);
