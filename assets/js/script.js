@@ -206,7 +206,7 @@ let restart = (text) => {
 
 cardGenerator();
 
-//Game rules window area
+//Game rules modal area
 document.getElementById("button").addEventListener("click",
     function () {
         document.querySelector(".modal").style.display = "flex";
