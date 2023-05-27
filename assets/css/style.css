@@ -470,26 +470,26 @@ p {
     }
 }
 
-/* For  screen sizes 420px and down */
-@media screen and (max-width: 420px) {
+/* For  screen sizes 452px and down */
+@media screen and (max-width: 452px) {
 
     h1 {
         width: 110px;
-        margin-left: -200px;
+        margin-left: -220px;
     }
 
     #rules {
         width: 100px;
-        margin-left: -200px;
+        margin-left: -220px;
     }
 
     #anime {
         margin-top: 5px;
-        margin-left: 268px;
+        margin-left: 238px;
     }
 
     #logo {
-        margin-left: 268px;
+        margin-left: 238px;
     }
 
     .modal {
@@ -499,7 +499,7 @@ p {
 
     .modal-content {
         width: 45%;
-        height: 40%;
+        height: 45%;
         padding: 5px;
         margin-left: 260px;
         margin-bottom: 290px;
