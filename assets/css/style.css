@@ -409,6 +409,68 @@ p {
     }
 }
 
+/* For  screen sizes 520px and down */
+@media screen and (max-width: 520px) {
+
+    li {
+        display: grid;
+    }
+
+    h1 {
+        width: 118px;
+        font-size: 220%;
+        margin-left: -250px;
+    }
+
+    #rules {
+        width: 110px;
+        font-size: 125%;
+        margin-left: -250px;
+    }
+
+    #anime {
+        margin-top: 5px;
+        margin-left: 165px;
+    }
+
+    #logo {
+        margin-left: 165px;
+    }
+
+    .modal {
+        width: 200%;
+        height: 100%;
+    }
+
+    .modal-content {
+        width: 45%;
+        height: 55%;
+        margin-left: 160px;
+        margin-bottom: 100px;
+    }
+
+    .close {
+        position: absolute;
+        margin-top: 15px;
+        margin-right: 285px;
+        top: auto;
+    }
+
+    #text {
+        width: 65%;
+        height: 40%;
+        margin-top: 40px;
+        margin-left: 100px;
+    }
+
+    p {
+        margin-top: 30px;
+        margin-bottom: 5px;
+        font-size: 19px;
+    }
+}
+
+
 /* For  screen sizes 455px and down */
 @media screen and (max-width: 455px) {
 
