@@ -409,87 +409,26 @@ p {
     }
 }
 
-/* For  screen sizes 500px and down */
-@media screen and (max-width: 500px) {
-
-    li {
-        display: grid;
-    }
-
-    h1 {
-        width: 118px;
-        font-size: 220%;
-        margin-left: -240px;
-    }
-
-    #rules {
-        width: 110px;
-        font-size: 125%;
-        margin-left: -240px;
-    }
-
-    #anime {
-        margin-top: 5px;
-        margin-left: 185px;
-    }
-
-    #logo {
-        margin-left: 185px;
-    }
-
-    .modal {
-        width: 200%;
-        height: 100%;
-    }
-
-    .modal-content {
-        width: 45%;
-        height: 55%;
-        margin-left: 180px;
-        margin-bottom: 200px;
-    }
-
-    .close {
-        position: absolute;
-        margin-top: 25px;
-        margin-right: 280px;
-        top: auto;
-    }
-
-    #text {
-        width: 65%;
-        height: 40%;
-        margin-top: 40px;
-        margin-left: 100px;
-    }
-
-    p {
-        margin-top: 30px;
-        margin-bottom: 5px;
-        font-size: 19px;
-    }
-}
-
-/* For  screen sizes 452px and down */
-@media screen and (max-width: 452px) {
+/* For  screen sizes 455px and down */
+@media screen and (max-width: 455px) {
 
     h1 {
         width: 110px;
-        margin-left: -205px;
+        margin-left: -210px;
     }
 
     #rules {
         width: 100px;
-        margin-left: -205px;
+        margin-left: -210px;
     }
 
     #anime {
         margin-top: 5px;
-        margin-left: 255px;
+        margin-left: 230px;
     }
 
     #logo {
-        margin-left: 255px;
+        margin-left: 230px;
     }
 
     .modal {
@@ -501,14 +440,14 @@ p {
         width: 45%;
         height: 45%;
         padding: 5px;
-        margin-left: 260px;
-        margin-bottom: 290px;
+        margin-left: 240px;
+        margin-bottom: 250px;
     }
 
     .close {
         position: absolute;
         margin-top: 30px;
-        margin-right: 235px;
+        margin-right: 240px;
         top: auto;
     }
 }
