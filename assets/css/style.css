@@ -506,48 +506,6 @@ p {
     }
 }
 
-/* For  screen sizes 375px and down */
-@media screen and (max-width: 375px) {
-
-    h1 {
-        width: 100px;
-        margin-left: -180px;
-    }
-
-    #rules {
-        width: 95px;
-        margin-left: -180px;
-    }
-
-    #anime {
-        margin-top: 5px;
-        margin-left: 310px;
-    }
-
-    #logo {
-        margin-left: 310px;
-    }
-
-    .modal {
-        width: 200%;
-        height: 100%;
-    }
-
-    .modal-content {
-        width: 45%;
-        height: 38%;
-        padding: 5px;
-        margin-left: 315px;
-        margin-bottom: 400px;
-    }
-
-    .close {
-        position: absolute;
-        margin-top: 100px;
-        margin-right: 210px;
-    }
-}
-
 /* For  screen sizes 320px and down */
 @media screen and (max-width: 320px) {
 
