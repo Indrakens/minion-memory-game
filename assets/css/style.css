@@ -475,21 +475,21 @@ p {
 
     h1 {
         width: 110px;
-        margin-left: -215px;
+        margin-left: -205px;
     }
 
     #rules {
         width: 100px;
-        margin-left: -215px;
+        margin-left: -205px;
     }
 
     #anime {
         margin-top: 5px;
-        margin-left: 238px;
+        margin-left: 255px;
     }
 
     #logo {
-        margin-left: 238px;
+        margin-left: 255px;
     }
 
     .modal {
