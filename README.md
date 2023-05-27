@@ -11,12 +11,13 @@ add Am i responsive image here
 ## COLOR CHEME
 
 ## FONTS AND ICONS
-* The website uses Raleway sans-serif font from [Google Fonts]( https://fonts.google.com/ ) .
+* The website uses 'Ubuntu',sans-serif font from [Google Fonts]( https://fonts.google.com/ ) .
 * Icons from [Font Awesom]( https://fontawesome.com/ ) .
 
 ## IMAGES
 
 ## WIREFRAME
+![24A08643-172E-4B82-AA10-68AA598B9623](https://github.com/Indrakens/minion-memory-game/assets/127971416/521a3edc-1f01-4c5d-9dbc-22ccfd840af1)
 
 # FEATURES
 * The game have two main pages - game area and game rules. 
