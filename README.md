@@ -1,5 +1,5 @@
 # MINION MEMORY GAME
-Minion Memory Game is concetration card game. The object of the game is to turn over pairs of matching cards. It is a good game for young children, though adults may find it challenging and stimulating as well. During the game, it becomes known where certain cards are located, and so upon turning up one card, players with good memory will be able to remember where they have already seen its pair.
+Minion Memory Game is a concetration card game. The object of the game is to turn over pairs of matching cards. It is a good game for young children, though adults may find it challenging and stimulating as well. During the game, it becomes known where certain cards are located, and so upon turning up one card, players with a good memory will be able to remember where they have already seen its pair.
 The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.io/minion-memory-game/)
 
 ![IMG_0679](https://github.com/Indrakens/minion-memory-game/assets/127971416/936daf30-3a43-4400-997f-ca109d579486)
@@ -11,6 +11,7 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 * ## [FEATURES]( https://github.com/Indrakens/minion-memory-game#features )
    * ### [Main Game Area]( https://github.com/Indrakens/minion-memory-game#main-game-are )
    * ### [Game Rules]( https://github.com/Indrakens/minion-memory-game#game-rules )
+   * ### [Alert windows]()
 * ## [CREDITS]( https://github.com/Indrakens/minion-memory-game#credits-1 )
 * ## [TESTING]( https://github.com/Indrakens/minion-memory-game#testing-1 )
 * ## [VALIDATOR TESTING]( https://github.com/Indrakens/minion-memory-game#validator-testing-1 )
@@ -20,7 +21,8 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 ![24A08643-172E-4B82-AA10-68AA598B9623](https://github.com/Indrakens/minion-memory-game/assets/127971416/521a3edc-1f01-4c5d-9dbc-22ccfd840af1)
 
 # FEATURES
-* The game have two main pages - game area and game rules. 
+* The game have two  pages - main game area and game rules. 
+* Also have alert windows.
 ## Main Game Are
 * Header - featured at the top of the page. The header shows the Game Rules and Lives.
 * Anime and logo image - featured below header.
@@ -28,6 +30,8 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 ## Game Rules
 * Explains game rules. Opens as a modal (a web page element that displays in front of main page).
 * Image - text-image featured below game rules.
+## ALERT WINDOWS
+* An alert window opens when the game is won or lost.
 
 # CREDITS
 * FONTS AND ICONS
