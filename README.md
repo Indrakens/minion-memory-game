@@ -5,15 +5,15 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 ![IMG_0679](https://github.com/Indrakens/minion-memory-game/assets/127971416/936daf30-3a43-4400-997f-ca109d579486)
 
 # CONTENT
-* ## [WIREFRAME]( https://github.com/Indrakens/minion-memory-game#wireframe )
-* ## [FEATURES]( https://github.com/Indrakens/minion-memory-game#features )
-   * ### [Main Game Area]( https://github.com/Indrakens/minion-memory-game#main-game-are )
-   * ### [Game Rules]( https://github.com/Indrakens/minion-memory-game#game-rules )
-   * ### [Alert Windows]( https://github.com/Indrakens/minion-memory-game#alert-windows-1 )
-* ## [CREDITS]( https://github.com/Indrakens/minion-memory-game#credits-1 )
-* ## [TESTING]( https://github.com/Indrakens/minion-memory-game#testing-1 )
-* ## [VALIDATOR TESTING]( https://github.com/Indrakens/minion-memory-game#validator-testing-1 )
-* ## [DEPLOYMENT]( https://github.com/Indrakens/minion-memory-game#deployment-1 )
+* ## [WIREFRAME](https://github.com/Indrakens/minion-memory-game#wireframe)
+* ## [FEATURES](https://github.com/Indrakens/minion-memory-game#features)
+   * ### [Main Game Area](https://github.com/Indrakens/minion-memory-game#main-game-are)
+   * ### [Game Rules](https://github.com/Indrakens/minion-memory-game#game-rules)
+   * ### [Alert Windows](https://github.com/Indrakens/minion-memory-game#alert-windows-1)
+* ## [CREDITS](https://github.com/Indrakens/minion-memory-game#credits-1)
+* ## [TESTING](https://github.com/Indrakens/minion-memory-game#testing-1)
+* ## [VALIDATOR TESTING](https://github.com/Indrakens/minion-memory-game#validator-testing-1)
+* ## [DEPLOYMENT](https://github.com/Indrakens/minion-memory-game#deployment-1)
 
 # WIREFRAME
 ![24A08643-172E-4B82-AA10-68AA598B9623](https://github.com/Indrakens/minion-memory-game/assets/127971416/521a3edc-1f01-4c5d-9dbc-22ccfd840af1)
