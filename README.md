@@ -11,10 +11,10 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 * ## [FEATURES]( https://github.com/Indrakens/minion-memory-game#features )
    * ### [Main Game Area]( https://github.com/Indrakens/minion-memory-game#main-game-are )
    * ### [Game Rules]( https://github.com/Indrakens/minion-memory-game#game-rules )
-* ## [CREDITS]()
-* ## [TESTING]()
-* ## [VALIDATOR TESTING]()
-* ## [DEPLOYMENT]()
+* ## [CREDITS]( https://github.com/Indrakens/minion-memory-game#credits-1 )
+* ## [TESTING]( https://github.com/Indrakens/minion-memory-game#testing-1 )
+* ## [VALIDATOR TESTING]( https://github.com/Indrakens/minion-memory-game#validator-testing-1 )
+* ## [DEPLOYMENT]( https://github.com/Indrakens/minion-memory-game#deployment-1 )
 
 # WIREFRAME
 ![24A08643-172E-4B82-AA10-68AA598B9623](https://github.com/Indrakens/minion-memory-game/assets/127971416/521a3edc-1f01-4c5d-9dbc-22ccfd840af1)
