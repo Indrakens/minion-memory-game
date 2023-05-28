@@ -4,14 +4,12 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 
 ![IMG_0679](https://github.com/Indrakens/minion-memory-game/assets/127971416/936daf30-3a43-4400-997f-ca109d579486)
 
-![LAST COMMIT]( https://placehold.co/125x35/3a3b3d/ffffff?text=LAST+COMMIT )![JUNE]( https://placehold.co/100x35/fec900/ffffff?text=JUNE ) ![HTML]( https://placehold.co/80x35/3a3b3d/ffffff?text=HTML )![43%]( https://placehold.co/80x35/db2700/ffffff?text=46.2% ) ![CSS]( https://placehold.co/80x35/3a3b3d/ffffff?text=CSS )![44.5%]( https://placehold.co/80x35/074cff/ffffff?text=42.2% ) ![W3C]( https://placehold.co/80x35/3a3b3d/ffffff?text=W3C )![44.5%]( https://placehold.co/105x35/69c404/ffffff?text=VALIDATED )
-
 # CONTENT
 * ## [WIREFRAME]( https://github.com/Indrakens/minion-memory-game#wireframe )
 * ## [FEATURES]( https://github.com/Indrakens/minion-memory-game#features )
    * ### [Main Game Area]( https://github.com/Indrakens/minion-memory-game#main-game-are )
    * ### [Game Rules]( https://github.com/Indrakens/minion-memory-game#game-rules )
-   * ### [Alert windows]()
+   * ### [Alert Windows]( https://github.com/Indrakens/minion-memory-game#alert-windows-1 )
 * ## [CREDITS]( https://github.com/Indrakens/minion-memory-game#credits-1 )
 * ## [TESTING]( https://github.com/Indrakens/minion-memory-game#testing-1 )
 * ## [VALIDATOR TESTING]( https://github.com/Indrakens/minion-memory-game#validator-testing-1 )
@@ -21,16 +19,16 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 ![24A08643-172E-4B82-AA10-68AA598B9623](https://github.com/Indrakens/minion-memory-game/assets/127971416/521a3edc-1f01-4c5d-9dbc-22ccfd840af1)
 
 # FEATURES
-* The game have two  pages - main game area and game rules. 
+* The game has two pages - the main game area and the game rules. 
 * Also have alert windows.
 ## Main Game Are
 * Header - featured at the top of the page. The header shows the Game Rules and Lives.
-* Anime and logo image - featured below header.
+* Anime and logo image - featured below the header.
 * Card section - featured below logo image and anime.
 ## Game Rules
-* Explains game rules. Opens as a modal (a web page element that displays in front of main page).
+* Explains game rules. Opens as a modal (a web page element that displays in front of the main page).
 * Image - text-image featured below game rules.
-## ALERT WINDOWS
+## Alert Windows
 * An alert window opens when the game is won or lost.
 
 # CREDITS
@@ -42,10 +40,13 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
   * The emoji for alert windows are taken from [Emojidb]( https://emojidb.org/ ) website.
 * IMAGES
   * Logo image in main page and text-image in game rules, are created in Canva app.
-
+  * Images for cards is taken from [Google]( https://www.google.com/ ) and recreated in Canva app.
+* CARD COLOR
+  * The gradiant color for back of the cards is created in [CSS Gradient]( https://cssgradient.io/ )
 
 # TESTING
 ![IMG_0678](https://github.com/Indrakens/minion-memory-game/assets/127971416/520d4de1-ecc5-4e84-9556-31771a743b46)
+
 # VALIDATOR TESTING
 * HTML
    * No errors were found through the W3C validator
