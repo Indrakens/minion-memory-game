@@ -30,9 +30,15 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 * Image - text-image featured below game rules.
 
 # CREDITS
-## FONTS AND ICONS
-* The website uses 'Ubuntu',sans-serif font from [Google Fonts]( https://fonts.google.com/ ) .
-* Icons from [Font Awesom]( https://fontawesome.com/ ) .
+* FONTS AND ICONS
+  * The website uses 'Ubuntu',sans-serif font from [Google Fonts]( https://fonts.google.com/ ) .
+  * Icons from [Font Awesom]( https://fontawesome.com/ ) .
+* ANIMATION AND EMOJI
+  * The animation is taken from [DPoisn]( https://dpoisn.com/images/faces/minions.php ) website.
+  * The emoji for alert windows are taken from [Emojidb]( https://emojidb.org/ ) website.
+* IMAGES
+  * Logo image in main page and text-image in game rules, are created in Canva app.
+
 
 # TESTING
 ![IMG_0678](https://github.com/Indrakens/minion-memory-game/assets/127971416/520d4de1-ecc5-4e84-9556-31771a743b46)
