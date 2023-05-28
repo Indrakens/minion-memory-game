@@ -5,7 +5,7 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 ![IMG_0679](https://github.com/Indrakens/minion-memory-game/assets/127971416/936daf30-3a43-4400-997f-ca109d579486)
 
 # CONTENT
-* ## [WIREFRAME](https://github.com/Indrakens/minion-memory-game#wireframe)
+* ## [WIREFRAME](https://github.com/Indrakens/minion-memory-game#wireframe-1)
 * ## [FEATURES](https://github.com/Indrakens/minion-memory-game#features)
    * ### [Main Game Area](https://github.com/Indrakens/minion-memory-game#main-game-are)
    * ### [Game Rules](https://github.com/Indrakens/minion-memory-game#game-rules)
