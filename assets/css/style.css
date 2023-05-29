@@ -465,6 +465,46 @@ p {
     }
 }
 
+/* For  screen sizes 400px and down */
+@media screen and (max-width: 400px) {
+
+    li {
+        display: grid;
+    }
+
+    h1 {
+        width: 90px;
+        font-size: 110%;
+        margin-left: -180px;
+    }
+
+    #rules {
+        width: 120px;
+        font-size: 100%;
+        margin-left: -180px;
+    }
+
+    #anime {
+        margin-top: 5px;
+        margin-left: 290px;
+    }
+
+    #logo {
+        margin-left: 290px;
+    }
+
+    .modal {
+        width: 200%;
+        height: 100%;
+    }
+
+    .modal-content {
+        width: 550px;
+        text-align: center;
+        margin-left: 290px;
+        margin-bottom: 300px;
+    }
+}
 
 /* For  screen sizes 320px and down */
 @media screen and (max-width: 320px) {
