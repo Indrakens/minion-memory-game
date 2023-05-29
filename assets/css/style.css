@@ -424,8 +424,8 @@ p {
 
 
 
-/* For  screen sizes 420px and down */
-@media screen and (max-width: 420px) {
+/* For  screen sizes 450px and down */
+@media screen and (max-width: 450px) {
 
     li {
         display: grid;
@@ -434,22 +434,22 @@ p {
     h1 {
         width: 90px;
         font-size: 110%;
-        margin-left: -200px;
+        margin-left: -207px;
     }
 
     #rules {
         width: 120px;
         font-size: 100%;
-        margin-left: -200px;
+        margin-left: -207px;
     }
 
     #anime {
         margin-top: 5px;
-        margin-left: 265px;
+        margin-left: 240px;
     }
 
     #logo {
-        margin-left: 265px;
+        margin-left: 240px;
     }
 
     .modal {
@@ -461,7 +461,7 @@ p {
         width: 550px;
         text-align: center;
         margin-left: 260px;
-        margin-bottom: 300px;
+        margin-bottom: 200px;
     }
 }
 
