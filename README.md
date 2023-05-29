@@ -52,6 +52,8 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
    * No errors were found through the W3C validator
 * CSS
    * No errors were found through the W3C CSS (Jigsaw) validator
+* JS
+   * No warnings were found through the JSHint (JavaScript) validator
 
 # DEPLOYMENT
 * The site was deployed to GitHub pages. The stepsto deploy are:
