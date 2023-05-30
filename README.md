@@ -1,5 +1,5 @@
 # MINION MEMORY GAME
-Minion Memory Game is a concetration card game. The object of the game is to turn over pairs of matching cards. It is a good game for young children, though adults may find it challenging and stimulating as well. During the game, it becomes known where certain cards are located, and so upon turning up one card, players with a good memory will be able to remember where they have already seen its pair.
+Minion Memory Game is a concentration card game. The object of the game is to turn over pairs of matching cards. It is a good game for young children, though adults may find it challenging and stimulating as well. During the game, it becomes known where certain cards are located, and so upon turning up one card, players with a good memory will be able to remember where they have already seen its pair.
 The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.io/minion-memory-game/)
 
 ![FCA112DB-6493-4F30-A330-F011BC801193](https://github.com/Indrakens/minion-memory-game/assets/127971416/dd6a28ed-4633-4fbb-ba50-2cb591e0319b)
@@ -39,13 +39,13 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
   * The animation is taken from [DPoisn]( https://dpoisn.com/images/faces/minions.php ) website.
   * The emoji for alert windows are taken from [Emojidb]( https://emojidb.org/ ) website.
 * IMAGES
-  * Logo image in main page and text-image in game rules, are created in Canva app.
-  * Images for cards is taken from [Google]( https://www.google.com/ ) and recreated in Canva app.
+  * The logo image on the main page and the text image in the game rules are created in the Canva app.
+  * Images for cards are taken from [Google]( https://www.google.com/ ) and recreated in Canva app.
 * CARD COLOR
-  * The gradiant color for back of the cards is created in [CSS Gradient]( https://cssgradient.io/ )
+  * The gradient color for the back of the cards is created in [CSS Gradient]( https://cssgradient.io/ )
 
 # TESTING
-* The game is tested in different browsers: Chrome, Firefox, Safari.
+* The game is tested in different browsers: Chrome, Firefox, and Safari.
 ![IMG_0678](https://github.com/Indrakens/minion-memory-game/assets/127971416/520d4de1-ecc5-4e84-9556-31771a743b46)
 
 # VALIDATOR TESTING
@@ -57,7 +57,7 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
    * No warnings were found through the JSHint (JavaScript) validator
 
 # DEPLOYMENT
-* The site was deployed to GitHub pages. The stepsto deploy are:
-   *  In the GitHub repositry, navigate to the Settings tab
+* The site was deployed to GitHub pages. The steps deploy are:
+   *  In the GitHub repository, navigate to the Settings tab
    *  From the source section drop-down menu, select the Main Branch 
    *  Once the main branch has been selected, the page provided the link to the completed website.
