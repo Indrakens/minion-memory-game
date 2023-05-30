@@ -41,7 +41,7 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
   * The logo image on the main page and the text image in the game rules are created in the Canva app.
   * Images for cards are taken from [Google]( https://www.google.com/ ) and recreated in Canva app.
 * CARD COLOR
-  * The gradient color for the back of the cards is created in [CSS Gradient]( https://cssgradient.io/ )
+  * The gradient color for the back of the cards and lists is created in [CSS Gradient]( https://cssgradient.io/ )
 
 # TESTING
 * The game is tested in different browsers: Chrome, Firefox, and Safari.
