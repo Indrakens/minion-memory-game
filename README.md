@@ -2,7 +2,7 @@
 Minion Memory Game is a concetration card game. The object of the game is to turn over pairs of matching cards. It is a good game for young children, though adults may find it challenging and stimulating as well. During the game, it becomes known where certain cards are located, and so upon turning up one card, players with a good memory will be able to remember where they have already seen its pair.
 The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.io/minion-memory-game/)
 
-![IMG_0679](https://github.com/Indrakens/minion-memory-game/assets/127971416/936daf30-3a43-4400-997f-ca109d579486)
+![FCA112DB-6493-4F30-A330-F011BC801193](https://github.com/Indrakens/minion-memory-game/assets/127971416/dd6a28ed-4633-4fbb-ba50-2cb591e0319b)
 
 # CONTENT
 * ## [WIREFRAME](https://github.com/Indrakens/minion-memory-game#wireframe-1)
