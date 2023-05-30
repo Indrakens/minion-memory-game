@@ -34,7 +34,6 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 # CREDITS
 * FONTS AND ICONS
   * The website uses 'Ubuntu',sans-serif font from [Google Fonts]( https://fonts.google.com/ ) .
-  * Icons from [Font Awesom]( https://fontawesome.com/ ) .
 * ANIMATION AND EMOJI
   * The animation is taken from [DPoisn]( https://dpoisn.com/images/faces/minions.php ) website.
   * The emoji for alert windows are taken from [Emojidb]( https://emojidb.org/ ) website.
