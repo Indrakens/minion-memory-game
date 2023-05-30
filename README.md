@@ -45,6 +45,7 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
   * The gradiant color for back of the cards is created in [CSS Gradient]( https://cssgradient.io/ )
 
 # TESTING
+* The game is tested in different browsers: Chrome, Firefox, Safari.
 ![IMG_0678](https://github.com/Indrakens/minion-memory-game/assets/127971416/520d4de1-ecc5-4e84-9556-31771a743b46)
 
 # VALIDATOR TESTING
