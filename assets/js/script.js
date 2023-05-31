@@ -129,7 +129,7 @@ let cardGenerator = () => {
         //Attach images for cards
         face.src = item.imgSrc;
         card.setAttribute("name", item.name);
-        card.setAttribute("alt", item.alt);
+        face.setAttribute("alt", item.alt);
         //Attached cards to section
         section.appendChild(card);
         card.appendChild(face);
