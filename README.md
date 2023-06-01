@@ -45,7 +45,7 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 
 # TESTING
 * The game is tested in different browsers: Chrome, Firefox, and Safari.
-![IMG_0678](https://github.com/Indrakens/minion-memory-game/assets/127971416/520d4de1-ecc5-4e84-9556-31771a743b46)
+![IMG_0720](https://github.com/Indrakens/minion-memory-game/assets/127971416/55d7a30e-f823-4f18-89fc-3f6e5cd49c05)
 
 # VALIDATOR TESTING
 * No errors were found through the [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Findrakens.github.io%2Fminion-memory-game%2F) validator
