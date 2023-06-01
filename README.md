@@ -22,15 +22,29 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 * Also have alert windows.
 ## Main Game Are
 * Header - featured at the top of the page. The header shows the Game Rules and Lives.
+
+![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/b2137ebf-451b-4e11-b66f-213490056c70)
+
 * Anime and logo image - featured below the header.
-![251A648D-F143-40BA-8381-A81778235A3E](https://github.com/Indrakens/minion-memory-game/assets/127971416/49405a04-1da6-49c0-8ac5-4528e9184655)
+
+![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/f7234e03-b6f6-4451-ac0f-b68a46d38991)
+
 * Card game section - featured below logo image and anime.
+
+![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/59cd8853-265f-48f1-a989-b84feb534194)
+
 ## Game Rules
 * Explains game rules. Opens as a modal (a web page element that displays in front of the main page).
-* Image - text-image featured below game rules.
-![E91F9D22-A412-49A8-B25B-3045A69E96DC](https://github.com/Indrakens/minion-memory-game/assets/127971416/db800074-a337-4403-934f-5aa97eb5bd85)
+* Image - text featured below game rules.
+
+![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/740de60b-91a2-4c9d-b916-57f6ae28bd6c)
+
 ## Alert Windows
 * An alert window opens when the game is won or lost.
+  * Winn the game alert window
+  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/656a5668-2730-4c5e-90b1-e2c389ed2b9c)
+  * Lost the game alert window
+  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/84b8898f-28d3-4c73-967f-a18b0fab237d)
 
 # CREDITS
 * FONTS AND ICONS
