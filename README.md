@@ -1,6 +1,5 @@
 # MINION MEMORY GAME
 Minion Memory Game is a concentration card game. The object of the game is to turn over pairs of matching cards. It is a good game for young children, though adults may find it challenging and stimulating as well. During the game, it becomes known where certain cards are located, and so upon turning up one card, players with a good memory will be able to remember where they have already seen its pair.
-The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.io/minion-memory-game/)
 
 ![FCA112DB-6493-4F30-A330-F011BC801193](https://github.com/Indrakens/minion-memory-game/assets/127971416/dd6a28ed-4633-4fbb-ba50-2cb591e0319b)
 
@@ -45,7 +44,8 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 
 # TESTING
 * The game is tested in different browsers: Chrome, Firefox, and Safari.
-![IMG_0720](https://github.com/Indrakens/minion-memory-game/assets/127971416/55d7a30e-f823-4f18-89fc-3f6e5cd49c05)
+  * Main Page ![IMG_0720](https://github.com/Indrakens/minion-memory-game/assets/127971416/55d7a30e-f823-4f18-89fc-3f6e5cd49c05)
+  * Game Rules Page ![IMG_0721](https://github.com/Indrakens/minion-memory-game/assets/127971416/20f6ba09-2db7-48c0-8357-86964d36d15b)
 
 # VALIDATOR TESTING
 * No errors were found through the [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Findrakens.github.io%2Fminion-memory-game%2F) validator
@@ -59,3 +59,4 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
    *  In the GitHub repository, navigate to the Settings tab
    *  From the source section drop-down menu, select the Main Branch 
    *  Once the main branch has been selected, the page provided the link to the completed website.
+   The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.io/minion-memory-game/)
