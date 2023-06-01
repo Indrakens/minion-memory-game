@@ -58,7 +58,7 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
    ![9E49BE38-7DBF-4185-86A0-BB18F35407E9](https://github.com/Indrakens/minion-memory-game/assets/127971416/e9d94a51-4877-4e45-88ea-910c1b7133bc)
   * Minion images for cards are created in Canva app.
     ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/7ab37dd0-0a37-4c6a-a64a-681b82a292b7)
-* CARD COLOR
+* CARD BACK
   * The gradient color for the back of the cards and lists is created in [CSS Gradient]( https://cssgradient.io/ )
 
 # TESTING
