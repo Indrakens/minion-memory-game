@@ -47,14 +47,17 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
   ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/84b8898f-28d3-4c73-967f-a18b0fab237d)
 
 # CREDITS
-* FONTS AND ICONS
+* FONTS
   * The website uses 'Ubuntu',sans-serif font from [Google Fonts]( https://fonts.google.com/?query=ubuntu ) .
 * ANIMATION AND EMOJI
   * The animation is taken from [DPoisn]( https://dpoisn.com/images/faces/minions.php ) website.
-  * The emoji for alert windows are taken from [Emojidb]( https://emojidb.org/ ) website.
+  * The emoji for alert windows are taken from [Emojidb]( https://emojidb.org/emoji-emojis?user_typed_query=1&utm_source=user_search ) website.
 * IMAGES
   * The logo image on the main page and the text image in the game rules are created in the Canva app.
-  * Images for cards are taken from [Google]( https://www.google.com/ ) and recreated in Canva app.
+   ![9BE6A965-59B1-408B-8812-4299EC5835CD](https://github.com/Indrakens/minion-memory-game/assets/127971416/5637c273-86f9-45f7-bfd4-e62d192de60b)
+   ![9E49BE38-7DBF-4185-86A0-BB18F35407E9](https://github.com/Indrakens/minion-memory-game/assets/127971416/e9d94a51-4877-4e45-88ea-910c1b7133bc)
+  * Minion images for cards are created in Canva app.
+    ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/7ab37dd0-0a37-4c6a-a64a-681b82a292b7)
 * CARD COLOR
   * The gradient color for the back of the cards and lists is created in [CSS Gradient]( https://cssgradient.io/ )
 
@@ -75,4 +78,5 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
    *  In the GitHub repository, navigate to the Settings tab
    *  From the source section drop-down menu, select the Main Branch 
    *  Once the main branch has been selected, the page provided the link to the completed website.
+
    The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.io/minion-memory-game/)
