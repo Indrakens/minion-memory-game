@@ -3,7 +3,7 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 
 ![FCA112DB-6493-4F30-A330-F011BC801193](https://github.com/Indrakens/minion-memory-game/assets/127971416/dd6a28ed-4633-4fbb-ba50-2cb591e0319b)
 
-![JavaScript]( https://placehold.co/125x35/3a3b3d/ffffff?text=JavaScript )![26.6%]( https://placehold.co/100x35/fec900/ffffff?text=26.6% ) ![HTML]( https://placehold.co/80x35/3a3b3d/ffffff?text=HTML )![10.3%]( https://placehold.co/80x35/db2700/ffffff?text=46.2% ) ![CSS]( https://placehold.co/80x35/3a3b3d/ffffff?text=CSS )![44.5%]( https://placehold.co/80x35/7a0191/ffffff?text=42.2% )![LAST COMMIT]( https://placehold.co/125x35/3a3b3d/ffffff?text=LAST+COMMIT )![JUNE]( https://placehold.co/100x35/fec900/ffffff?text=JUNE )
+![JavaScript]( https://placehold.co/125x35/3a3b3d/ffffff?text=JavaScript )![26.6%]( https://placehold.co/100x35/fec900/ffffff?text=26.6% ) ![HTML]( https://placehold.co/80x35/3a3b3d/ffffff?text=HTML )![10.3%]( https://placehold.co/80x35/db2700/ffffff?text=46.2% ) ![CSS]( https://placehold.co/80x35/3a3b3d/ffffff?text=CSS )![41.7%]( https://placehold.co/80x35/7a0191/ffffff?text=41.7% )![LAST COMMIT]( https://placehold.co/125x35/3a3b3d/ffffff?text=LAST+COMMIT )![JUNE]( https://placehold.co/100x35/fec900/ffffff?text=JUNE )
 
 # CONTENT
 * ## [WIREFRAME](https://github.com/Indrakens/minion-memory-game#wireframe-1)
