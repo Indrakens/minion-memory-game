@@ -12,7 +12,7 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 * ## [CREDITS](https://github.com/Indrakens/minion-memory-game#credits-1)
 * ## [TESTING](https://github.com/Indrakens/minion-memory-game#testing-1)
 * ## [VALIDATOR TESTING](https://github.com/Indrakens/minion-memory-game#validator-testing-1)
-* ## [UNSOLVED BUGS](https://github.com/Indrakens/minion-memory-game#bugs)
+* ## [BUGS](https://github.com/Indrakens/minion-memory-game#bugs)
 * ## [DEPLOYMENT](https://github.com/Indrakens/minion-memory-game#deployment-1)
 
 # WIREFRAME
@@ -74,12 +74,12 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 * No warnings were found through the JSHint (JavaScript) validator
 ![IMG_0719](https://github.com/Indrakens/minion-memory-game/assets/127971416/6bef6d66-b0c2-4c98-92c6-9c421ad9e96a)
 
-# UNSOLVED BUGS
+# BUGS
   * When I open the game on a mobile phone it doesn't fit on the screen properly. And when I resized it with my fingers, it fits perfectly. I wasnt able to fix this issue. I added screenshots of how its looks like belove.
   ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/fb7ff93b-38d6-4aad-802c-6c273e455ae1)
 
   *  Also, I have an issue with when you lose the game and have one live left, you click on a card but the second card won't open, and straight away shows up alert window. I wasn't able to fix this issue.
-  
+
 # DEPLOYMENT
 * The site was deployed to GitHub pages. The steps deploy are:
    *  In the GitHub repository, navigate to the Settings tab
