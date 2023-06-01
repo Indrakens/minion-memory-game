@@ -73,6 +73,8 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 * No warnings were found through the JSHint (JavaScript) validator
 ![IMG_0719](https://github.com/Indrakens/minion-memory-game/assets/127971416/6bef6d66-b0c2-4c98-92c6-9c421ad9e96a)
 
+# BUGS
+
 # DEPLOYMENT
 * The site was deployed to GitHub pages. The steps deploy are:
    *  In the GitHub repository, navigate to the Settings tab
