@@ -48,12 +48,11 @@ The live link can be found here - [MINION MEMORY GAME](https://indrakens.github.
 ![IMG_0678](https://github.com/Indrakens/minion-memory-game/assets/127971416/520d4de1-ecc5-4e84-9556-31771a743b46)
 
 # VALIDATOR TESTING
-* HTML
-   * No errors were found through the W3C validator
-* CSS
-   * No errors were found through the W3C CSS (Jigsaw) validator
-* JS
-   * No warnings were found through the JSHint (JavaScript) validator
+* No errors were found through the [W3C](https://validator.w3.org/nu/?doc=https%3A%2F%2Findrakens.github.io%2Fminion-memory-game%2F) validator
+* No errors were found through the W3C [CSS (Jigsaw)](https://jigsaw.w3.org/css-validator/validator?uri=https%3A%2F%2Findrakens.github.io%2Fminion-memory-game%2F&profile=css3svg&usermedium=all&warning=1&vextwarning=&lang=en
+) validator
+* No warnings were found through the JSHint (JavaScript) validator
+![IMG_0719](https://github.com/Indrakens/minion-memory-game/assets/127971416/6bef6d66-b0c2-4c98-92c6-9c421ad9e96a)
 
 # DEPLOYMENT
 * The site was deployed to GitHub pages. The steps deploy are:
