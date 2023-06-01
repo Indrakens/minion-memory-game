@@ -23,16 +23,18 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 ## Main Game Are
 * Header - featured at the top of the page. The header shows the Game Rules and Lives.
 * Anime and logo image - featured below the header.
-* Card section - featured below logo image and anime.
+![251A648D-F143-40BA-8381-A81778235A3E](https://github.com/Indrakens/minion-memory-game/assets/127971416/49405a04-1da6-49c0-8ac5-4528e9184655)
+* Card game section - featured below logo image and anime.
 ## Game Rules
 * Explains game rules. Opens as a modal (a web page element that displays in front of the main page).
 * Image - text-image featured below game rules.
+![E91F9D22-A412-49A8-B25B-3045A69E96DC](https://github.com/Indrakens/minion-memory-game/assets/127971416/db800074-a337-4403-934f-5aa97eb5bd85)
 ## Alert Windows
 * An alert window opens when the game is won or lost.
 
 # CREDITS
 * FONTS AND ICONS
-  * The website uses 'Ubuntu',sans-serif font from [Google Fonts]( https://fonts.google.com/ ) .
+  * The website uses 'Ubuntu',sans-serif font from [Google Fonts]( https://fonts.google.com/?query=ubuntu ) .
 * ANIMATION AND EMOJI
   * The animation is taken from [DPoisn]( https://dpoisn.com/images/faces/minions.php ) website.
   * The emoji for alert windows are taken from [Emojidb]( https://emojidb.org/ ) website.
