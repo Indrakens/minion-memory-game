@@ -78,7 +78,8 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
   * When I open the game on a mobile phone it doesn't fit on the screen properly. And when I resized it with my fingers, it fits perfectly. I wasnt able to fix this issue. I added screenshots of how its looks like belove.
   ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/fb7ff93b-38d6-4aad-802c-6c273e455ae1)
 
-  *  Also, I have an issue with when you lose the game and have one live left, you click on a card but the second card won't open, and straight away shows up alert window. I wasn't able to fix this issue.
+  *  Also, I have an issue with when you lose the game and have one live left, you click on a card but the second card won't open, and straight away shows up alert window. I wasn't able to fix this issue. 
+  * No other issues weren't found while I was testing the game on different devices.
 
 # DEPLOYMENT
 * The site was deployed to GitHub pages. The steps deploy are:
