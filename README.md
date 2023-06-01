@@ -12,7 +12,7 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 * ## [CREDITS](https://github.com/Indrakens/minion-memory-game#credits-1)
 * ## [TESTING](https://github.com/Indrakens/minion-memory-game#testing-1)
 * ## [VALIDATOR TESTING](https://github.com/Indrakens/minion-memory-game#validator-testing-1)
-* ## [BUGS](https://github.com/Indrakens/minion-memory-game#bugs)
+* ## [BUGS](https://github.com/Indrakens/minion-memory-game#bugs-1)
 * ## [DEPLOYMENT](https://github.com/Indrakens/minion-memory-game#deployment-1)
 
 # WIREFRAME
