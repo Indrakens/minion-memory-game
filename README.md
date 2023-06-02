@@ -45,9 +45,9 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 ## Alert Windows
 * An alert window opens when the game is won or lost.
   * Winn the game alert window
-  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/656a5668-2730-4c5e-90b1-e2c389ed2b9c)
+  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/42ea4044-0ed3-4e79-9c87-3480996d8c36)
   * Lost the game alert window
-  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/84b8898f-28d3-4c73-967f-a18b0fab237d)
+  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/86a27e11-c468-43f4-a032-617a2d6c79d3)
 
 # CREDITS
 * FONTS
@@ -78,7 +78,7 @@ Minion Memory Game is a concentration card game. The object of the game is to tu
 
 # BUGS
   * When I open the game on a mobile phone it doesn't fit on the screen properly. And when I resized it with my fingers, it fits perfectly. I wasnt able to fix this issue. I added screenshots of how its looks like belove.
-  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/fb7ff93b-38d6-4aad-802c-6c273e455ae1)
+  ![image](https://github.com/Indrakens/minion-memory-game/assets/127971416/a0f23313-a40a-4246-9111-a683b0918596)
 
   *  Also, I have an issue with when you lose the game and have one live left, you click on a card but the second card won't open, and straight away shows up alert window. I wasn't able to fix this issue. 
   * No other issues weren't found while I was testing the game on different devices.
